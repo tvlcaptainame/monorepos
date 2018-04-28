@@ -15,6 +15,14 @@ to install all the dependencies (including the symbolic links).
 lerna bootstrap --hoist
 ```
 
-That member is now ready to code
-; obviously following their normal workflow patterns 
-(like creating a feature branch, etc.)
+
+## Folders
+
+```bash
+npm create-react-app project
+npm create-react-app styleguide
+```
+
+- components: A re-usable library of React components
+- project: The web application
+- styleguide: A style guide illustrating the use of components
