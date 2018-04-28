@@ -1,0 +1,12 @@
+{
+  "name": "hello-monorepo-ex",
+  "description": "```bash npm install --global lerna",
+  "version": "0.1.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "CaptainAme <uuunet1@gmail.com>",
+  "license": "MIT"
+}
